@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Divy Shukla</h1>
 <h3 align="center">A passionate and enthusiastic last year Computer Science Engineering student</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-- 🌱 I’m currently learning **ML/AI.**
+  🌱 I’m currently learning ML ,AI
 
-- 💬 Ask me about **Front-end , C++**
+ 💬 Ask me about **Front-end , C++**
+ 
 
-- 📫 How to reach me **divyshukla15@gmail.com**
+ 📫 How to reach me **divyshukla15@gmail.com**
+ 
 
-- ⚡ Fun fact **I love painting**
+ ⚡ Fun fact **I love painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
